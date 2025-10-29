@@ -1,0 +1,5 @@
+{
+  "name": "VibePaper",
+  "description": "A mobile-first web app for generating phone wallpapers. Users describe their desired vibe and the app generates 4 variations using the Gemini API. Users can view images fullscreen, download, or remix them.",
+  "requestFramePermissions": []
+}
